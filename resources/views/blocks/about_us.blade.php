@@ -1,8 +1,6 @@
 <section class="min-vh-100  bg-white" style="overflow-x: hidden;">
-
     <div class="container min-vh-100">
         <div class="row position-relative min-vh-100 align-items-center justify-content-center">
-
             <div class="col-11">
                 <div class="display-1 font-montserrat font-weight-bold position-absolute"
                      style="font-size: 445px; left: 50%; top: 0; transform: translate(-50%, -50%); color: #F8F8F8;">
